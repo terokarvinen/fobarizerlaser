@@ -4,6 +4,9 @@ Lorem ipsum. Hats with cats, foo is so bar. Lorem ipsum. Hats with cats, foo is 
 
 Lorem ipsum. Hats with cats, foo is so bar. Lorem ipsum. Hats with cats, foo is so bar. 
 
+  $ ls
+  foo bar
+
 Lorem ipsum. Hats with cats, foo is so bar. Lorem ipsum. Hats with cats, foo is so bar. Lorem ipsum. Hats with cats, foo is so bar. 
 
 ## Cats
