@@ -13,6 +13,9 @@ Lorem ipsum. Hats with cats, foo is so bar. Lorem ipsum. Hats with cats, foo is 
 
 Lorem ipsum. Hats with cats, foo is so bar. Lorem ipsum. Hats with cats, foo is so bar. 
 
+    document.querySelector("p");
+    let foo = "bar";
+
 ### Dogs
 
 Lorem ipsum. Hats with cats, foo is so bar. Lorem ipsum. Hats with cats, foo is so bar. Lorem ipsum. Hats with cats, foo is so bar. 
